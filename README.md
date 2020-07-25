@@ -1,13 +1,11 @@
 ## :man_technologist: Welcome to my profile! 
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=bernardojachegou&show_icons=true" alt="bernardojachegou" /> </p>
-<samp>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardojachegou" alt="bernardojachegou" /> </p>
  
  I'm a brazilian jr developer studying a lot about web developement. I really enjoy learning new things and sharing knowledge.
  
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardojachegou" alt="bernardojachegou" /> </p>
-
 
 #### :rocket: Studying about:
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -32,6 +30,4 @@
 #### :envelope: Contact:
 
 <a href="https://api.whatsapp.com/send?phone=5577999999878&text=Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565981178109&text=Github!)</a>
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardojachegou" alt="bernardojachegou" /> </p>
 
