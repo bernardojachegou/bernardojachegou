@@ -1,6 +1,11 @@
 # :man_technologist: Welcome to my profile! 
-I'm a brazilian jr developer studying a lot about web developement. I really enjoy learning new things and sharing knowledge.
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/USV0ym3bVWQJJmNu3N/200w.webp?cid=ecf05e47xoydv78z8h1i22mguv3sj8c7altr54g3u7v2ntfu&rid=200w.webp" />
+  <img src="https://media0.giphy.com/media/12BYUePgtn7sis/200w.webp?cid=ecf05e47xoydv78z8h1i22mguv3sj8c7altr54g3u7v2ntfu&rid=200w.webp" />
+</p>
+
+I'm a brazilian jr developer studying a lot about web development. I really enjoy learning new things and sharing knowledge.
 
 ### :rocket: Studying about:
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -11,7 +16,6 @@ I'm a brazilian jr developer studying a lot about web developement. I really enj
 <a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)</a>
 <a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</a>
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
-
 
 ### :link: Social Networks:
 
