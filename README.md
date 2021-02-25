@@ -11,7 +11,7 @@ I'm a brazilian developer studying a lot to grow and become a great developer. I
 <a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
 <a href="https://www.javascript.com/" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)</a>
-<a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)</a>
+<a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white)</a>
 
 ### 📚 Based on:
 <a href="https://vuejs.org/" target="_blank"> ![Vuejs Badge](https://img.shields.io/badge/-Vue-56d698?style=flat&logo=vue&logoColor=white)</a>
