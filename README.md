@@ -7,20 +7,20 @@
 
 I'm a brazilian developer studying a lot to grow and become a great developer. I really enjoy learning new things and sharing knowledge.
 
-### :rocket: Started in:
-<a href="" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
-<a href="" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
-<a href="" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)</a>
+### 📖 Started in:
+<a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
+<a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
+<a href="https://www.javascript.com/" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)</a>
 <a href="https://reactjs.org/" target="_blank"> ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)</a>
 
-### :rocket: Based on:
+### 📚 Based on:
 <a href="https://vuejs.org/" target="_blank"> ![Vuejs Badge](https://img.shields.io/badge/-Vue-56d698?style=flat&logo=vue&logoColor=white)</a>
 <a href="https://nodejs.org" target="_blank"> ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)</a>
 <a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</a>
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
 
-### :link: Studying:
-<a href="" target="_blank"> ![SWIFT Badge](https://img.shields.io/badge/-Swift-E34F26?style=flat&logo=swift&logoColor=white)</a>
+### 🚀 Studying:
+<a href="https://developer.apple.com/swift/" target="_blank"> ![SWIFT Badge](https://img.shields.io/badge/-Swift-E34F26?style=flat&logo=swift&logoColor=white)</a>
 
 ### :link: Social Networks:
 
