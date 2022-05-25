@@ -19,7 +19,7 @@ I'm a brazilian developer studying a lot to grow and become a great developer. I
 <a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</a>
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
 
-### 🚀 Studying:
+### 🚀 Working with:
 <a href="https://developer.apple.com/swift/" target="_blank"> ![SWIFT Badge](https://img.shields.io/badge/-Swift-E34F26?style=flat&logo=swift&logoColor=white)</a>
 
 ### :link: Social Networks:
